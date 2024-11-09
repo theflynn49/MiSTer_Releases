@@ -1,7 +1,9 @@
 Here you will find my test cores, if my PRs have not been merged yet, so you can test'm without recompiling.
 
-Beware I only have Quartus ver 16, and it's not the recommended ver 17. Something about the license I can't put my head around.
-Use this at your own risks.
+They are compiled with Quartus ver 17.0.2, as it should. I FINALLY got that license stuff, 
+but I just lost 10 IQ points.
+
+Use this at your own risks anyway.
 
 jF
 
